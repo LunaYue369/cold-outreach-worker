@@ -1,0 +1,53 @@
+{
+  "U0000000001": {
+    "name": "Alex",
+    "dir": "alex",
+    "role": "admin",
+    "gmail": "alex@acmedevices.example",
+    "drive_folder_id": "your-drive-folder-id",
+    "templates": {
+      "comprehensive": {
+        "greeting_style": "Hello,",
+        "signature": "Best regards,\n\nAlex Chen\nAcme Devices\n(555) 010-0101\nalex@acmedevices.example"
+      },
+      "discovery": {
+        "greeting_style": "Hello,",
+        "signature": "Best regards,\n\nAlex Chen\nAcme Devices\n(555) 010-0101\nalex@acmedevices.example"
+      }
+    }
+  },
+  "U0000000002": {
+    "name": "Sam",
+    "dir": "sam",
+    "gmail": "sam@acmedevices.example",
+    "drive_folder_id": "your-drive-folder-id",
+    "templates": {
+      "us": {
+        "greeting_style": "Hi,",
+        "signature": "Best,\n\nSam Rivera\nAcme Devices\n(555) 010-0102"
+      },
+      "local": {
+        "greeting_style": "Hey,",
+        "signature": "Cheers,\n\nSam Rivera\nAcme Devices"
+      },
+      "advice-gift": {
+        "greeting_style": "Hey,",
+        "signature": "Cheers,\n\nSam Rivera\nAcme Devices"
+      },
+      "advice-trial": {
+        "greeting_style": "Hey,",
+        "signature": "All the best,\n\nSam Rivera\nAcme Devices"
+      },
+      "straight-advice": {
+        "static_subject": "advice?",
+        "static_body": "Hi there,\n\nI live over in Maple Grove and I'm looking for advice from someone who runs a local service business. Happy to pay $15 for 15 minutes of your time, or I can stop by in person.\n\nLet me know if that works - thanks!",
+        "signature": "Sam Rivera\n(555) 010-0102"
+      }
+    }
+  },
+  "U0000000003": {
+    "name": "Morgan",
+    "dir": "morgan",
+    "role": "admin"
+  }
+}
